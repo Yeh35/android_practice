@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CameraBarcode</string>
+    <string name="requied_camara_permistion">카메라 권한 요청</string>
 </resources>
